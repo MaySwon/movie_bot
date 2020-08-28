@@ -1,0 +1,166 @@
+{
+  "films": [
+    {
+      "uuid": "f123",
+      "name": "Начало",
+      "type": "action",
+      "year": "2010",
+      "rate": 8.665,
+      "director": "Кристофер Нолан",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/nachalo-2010-447301",
+      "picture": "https://www.kinopoisk.ru/images/film_big/447301.jpg"
+    },
+    {
+      "uuid": "f234",
+      "name": "Гладиатор",
+      "type": "action",
+      "year": "2000",
+      "rate": 8.592,
+      "director": "2:35",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/gladiator-2000-474",
+      "picture": "https://www.kinopoisk.ru/images/film_big/474.jpg"
+    },
+    {
+      "uuid": "f345",
+      "name": "Матрица",
+      "type": "action",
+      "year": "1999",
+      "rate": 8.491,
+      "director": "2:16",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/matrica-1999-301",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_301.jpg"
+    },
+    {
+      "uuid": "f456",
+      "name": "Джанго Освобожденный",
+      "type": "action",
+      "year": "1997",
+      "rate": 8.491,
+      "director": "Квентин Тарантино",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/586397/",
+      "picture": "https://picfiles.alphacoders.com/877/87743.jpg"
+    },
+    {
+      "uuid": "f567",
+      "name": "Карты, деньги, два ствола",
+      "type": "comedy",
+      "year": "1998",
+      "rate": 8.543,
+      "director": "Гай Ричи",
+      "country": "Великобритания",
+      "link": "https://www.kinopoisk.ru/film/karty-dengi-dva-stvola-1998-522",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_522.jpg"
+    },
+    {
+      "uuid": "f678",
+      "name": "Форрест Гамп",
+      "type": "dram",
+      "year": "1994",
+      "rate": 8.922,
+      "director": "2:22",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/forrest-gamp-1994-448",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_448.jpg"
+
+    },
+    {
+      "uuid": "f789",
+      "name": "1+1",
+      "type": "dram",
+      "year": "2011",
+      "rate": 8.812,
+      "director": "1:52",
+      "country": "Франция",
+      "link": "https://www.kinopoisk.ru/film/11-2011-535341",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_535341.jpg"
+
+    },
+    {
+      "uuid": "f890",
+      "name": "Достучаться до небес",
+      "type": "dram",
+      "year": "1997",
+      "rate": 8.634,
+      "director": "Томас Ян",
+      "country": "Германия",
+      "link": "https://www.kinopoisk.ru/film/dostuchatsya-do-nebes-1997-32898",
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_32898.jpg"
+    },
+    {
+      "uuid": "f124",
+      "name": "Цельнометаллическая оболочка",
+      "type": "dram",
+      "year": "1987",
+      "rate": 8.0,
+      "director": "Стэнли Кубрик",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/418/",
+      "picture": "https://picfiles.alphacoders.com/936/93686.jpg"
+
+    },
+    {
+      "uuid": "f125",
+      "name": "Остров проклятых",
+      "type": "thriller",
+      "year": "2009",
+      "rate": 8.5,
+      "director": "Мартин Скорсезе",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/397667/",
+      "picture": "https://picfiles.alphacoders.com/350/350695.jpg"
+
+    },
+    {
+      "uuid": "f127",
+      "name": "Бесславные ублюдки",
+      "type": "action",
+      "year": "2009",
+      "rate": 7.9,
+      "director": "Квентин Тарантино",
+      "country": "США,Германия",
+      "link": "https://www.kinopoisk.ru/film/9691/",
+      "picture": "https://picfiles.alphacoders.com/101/101222.jpg"
+
+    },
+    {
+      "uuid": "f127",
+      "name": "Однажды в… Голливуде",
+      "type": "dram",
+      "year": "2009",
+      "rate": 7.6,
+      "director": "Квентин Тарантино",
+      "country": "США,Великобритания",
+      "link": "https://www.kinopoisk.ru/film/1047883/",
+      "picture": "https://picfiles.alphacoders.com/257/257306.jpg"
+    },
+    {
+      "uuid": "f888",
+      "name": "Омерзительная восьмерка",
+      "type": "thriller",
+      "year": "2015",
+      "rate": 7.9,
+      "director": "Квентин Тарантино",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/819101/",
+      "picture": "https://picfiles.alphacoders.com/137/137403.jpg"
+
+    },
+    {
+      "uuid": "f128",
+      "name": "Кролик Джоджо",
+      "type": "dram",
+      "year": "2019",
+      "rate": 7.9,
+      "director": "Тайка Вайтити",
+      "country": "США,Новая Зеландия",
+      "link": "https://www.kinopoisk.ru/film/726838/",
+      "picture": "https://picfiles.alphacoders.com/299/299597.jpg"
+
+    }
+  ]
+
+}
