@@ -9,7 +9,8 @@
       "director": "Кристофер Нолан",
       "country": "США",
       "link": "https://www.kinopoisk.ru/film/nachalo-2010-447301",
-      "picture": "https://www.kinopoisk.ru/images/film_big/447301.jpg"
+      "picture": "https://www.kinopoisk.ru/images/film_big/447301.jpg",
+      "review": ""
     },
     {
       "uuid": "f234",
@@ -20,7 +21,8 @@
       "director": "2:35",
       "country": "США",
       "link": "https://www.kinopoisk.ru/film/gladiator-2000-474",
-      "picture": "https://www.kinopoisk.ru/images/film_big/474.jpg"
+      "picture": "https://www.kinopoisk.ru/images/film_big/474.jpg",
+      "review": ""
     },
     {
       "uuid": "f345",
@@ -31,7 +33,8 @@
       "director": "2:16",
       "country": "США",
       "link": "https://www.kinopoisk.ru/film/matrica-1999-301",
-      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_301.jpg"
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_301.jpg",
+      "review": ""
     },
     {
       "uuid": "f456",
@@ -42,7 +45,8 @@
       "director": "Квентин Тарантино",
       "country": "США",
       "link": "https://www.kinopoisk.ru/film/586397/",
-      "picture": "https://picfiles.alphacoders.com/877/87743.jpg"
+      "picture": "https://picfiles.alphacoders.com/877/87743.jpg",
+      "review": ""
     },
     {
       "uuid": "f567",
@@ -53,7 +57,8 @@
       "director": "Гай Ричи",
       "country": "Великобритания",
       "link": "https://www.kinopoisk.ru/film/karty-dengi-dva-stvola-1998-522",
-      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_522.jpg"
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_522.jpg",
+      "review": ""
     },
     {
       "uuid": "f678",
@@ -64,7 +69,8 @@
       "director": "2:22",
       "country": "США",
       "link": "https://www.kinopoisk.ru/film/forrest-gamp-1994-448",
-      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_448.jpg"
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_448.jpg",
+      "review": ""
 
     },
     {
@@ -76,7 +82,8 @@
       "director": "1:52",
       "country": "Франция",
       "link": "https://www.kinopoisk.ru/film/11-2011-535341",
-      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_535341.jpg"
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_535341.jpg",
+      "review": ""
 
     },
     {
@@ -88,7 +95,8 @@
       "director": "Томас Ян",
       "country": "Германия",
       "link": "https://www.kinopoisk.ru/film/dostuchatsya-do-nebes-1997-32898",
-      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_32898.jpg"
+      "picture": "https://st.kp.yandex.net/images/film_iphone/iphone360_32898.jpg",
+      "review": ""
     },
     {
       "uuid": "f124",
@@ -99,7 +107,8 @@
       "director": "Стэнли Кубрик",
       "country": "США",
       "link": "https://www.kinopoisk.ru/film/418/",
-      "picture": "https://picfiles.alphacoders.com/936/93686.jpg"
+      "picture": "https://picfiles.alphacoders.com/936/93686.jpg",
+      "review": ""
 
     },
     {
@@ -111,7 +120,8 @@
       "director": "Мартин Скорсезе",
       "country": "США",
       "link": "https://www.kinopoisk.ru/film/397667/",
-      "picture": "https://picfiles.alphacoders.com/350/350695.jpg"
+      "picture": "https://picfiles.alphacoders.com/350/350695.jpg",
+      "review": ""
 
     },
     {
@@ -123,7 +133,8 @@
       "director": "Квентин Тарантино",
       "country": "США,Германия",
       "link": "https://www.kinopoisk.ru/film/9691/",
-      "picture": "https://picfiles.alphacoders.com/101/101222.jpg"
+      "picture": "https://picfiles.alphacoders.com/101/101222.jpg",
+      "review": ""
 
     },
     {
@@ -135,7 +146,8 @@
       "director": "Квентин Тарантино",
       "country": "США,Великобритания",
       "link": "https://www.kinopoisk.ru/film/1047883/",
-      "picture": "https://picfiles.alphacoders.com/257/257306.jpg"
+      "picture": "https://picfiles.alphacoders.com/257/257306.jpg",
+      "review": ""
     },
     {
       "uuid": "f888",
@@ -146,7 +158,8 @@
       "director": "Квентин Тарантино",
       "country": "США",
       "link": "https://www.kinopoisk.ru/film/819101/",
-      "picture": "https://picfiles.alphacoders.com/137/137403.jpg"
+      "picture": "https://picfiles.alphacoders.com/137/137403.jpg",
+      "review": ""
 
     },
     {
@@ -158,7 +171,112 @@
       "director": "Тайка Вайтити",
       "country": "США,Новая Зеландия",
       "link": "https://www.kinopoisk.ru/film/726838/",
-      "picture": "https://picfiles.alphacoders.com/299/299597.jpg"
+      "picture": "https://picfiles.alphacoders.com/299/299597.jpg",
+      "review": ""
+
+    },
+    {
+      "uuid": "f129",
+      "name": "Волк с Уолл-Стрит",
+      "type": "dram",
+      "year": "2013",
+      "rate": 7.9,
+      "director": "Мартин Скорсезе",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/462682/",
+      "picture": "https://picfiles.alphacoders.com/167/167426.jpg",
+      "review": ""
+
+    },
+    {
+      "uuid": "f130",
+      "name": "Ирландец",
+      "type": "dram",
+      "year": "2019",
+      "rate": 7.5,
+      "director": "Мартин Скорсезе",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/462305/",
+      "picture": "https://picfiles.alphacoders.com/315/315828.jpg",
+      "review": ""
+
+    },
+    {
+      "uuid": "f131",
+      "name": "Прочь",
+      "type": "thriller",
+      "year": "2017",
+      "rate": 7.1,
+      "director": "Джордан Пил",
+      "country": "США,Япония",
+      "link": "https://www.kinopoisk.ru/film/944708/",
+      "picture": "https://picfiles.alphacoders.com/115/115018.jpg",
+      "review": ""
+
+    },
+    {
+      "uuid": "f132",
+      "name": "Мы",
+      "type": "thriller",
+      "year": "2019",
+      "rate": 6.3,
+      "director": "Джордан Пил",
+      "country": "США,Япония,Китай",
+      "link": "https://www.kinopoisk.ru/film/1122138/",
+      "picture": "https://picfiles.alphacoders.com/235/235628.jpg",
+      "review": ""
+
+    },
+    {
+      "uuid": "f132",
+      "name": "Тихое место",
+      "type": "thriller",
+      "year": "2018",
+      "rate": 6.7,
+      "director": "Джон Красински",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/1044906/",
+      "picture": "https://picfiles.alphacoders.com/182/182223.jpg",
+      "review": ""
+
+    },
+    {
+      "uuid": "f133",
+      "name": "Капитан Фантастик",
+      "type": "drama",
+      "year": "2018",
+      "rate": 7.6 ,
+      "director": "Мэтт Росс",
+      "country": "США",
+      "link": "https://www.kinopoisk.ru/film/841147/  ",
+      "picture": "https://picfiles.alphacoders.com/322/32218.jpg",
+      "review": ""
+
+    },
+    {
+      "uuid": "f134",
+      "name": "Лобстер",
+      "type": "drama",
+      "year": "2018",
+      "rate": 7.6 ,
+      "director": "Йоргос Лантимос",
+      "country": "Ирландия, Великобритания",
+      "link": "https://www.kinopoisk.ru/film/819846/",
+      "picture": "https://picfiles.alphacoders.com/138/138117.jpg",
+      "review": ""
+
+    },
+    {
+      "uuid": "f134",
+      "name": "Лобстер",
+      "type": "drama",
+      "year": "2018",
+      "rate": 7.6 ,
+      "director": "Йоргос Лантимос",
+      "country": "Ирландия, Великобритания",
+      "link": "https://www.kinopoisk.ru/film/819846/",
+      "picture": "https://picfiles.alphacoders.com/138/138117.jpg",
+      "review": ""
 
     }
   ]
