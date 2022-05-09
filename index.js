@@ -4,7 +4,7 @@ const emojiUnicode = require("emoji-unicode");
 const config = require ('./config')
 const mongoose = require('mongoose')
 const database = require('./data base.json')
-const TOKEN  = '1164043270:AAHAheom3TNAfZIp-PV_Ch9bzdDliw4mllw'
+const TOKEN  = '5236180092:AAEF3pMRSqURbsYGlTRpJJMy2wFuRMmXwcg'
 helper.logStart()
 const fs= require('fs')
 const bot = new TelegramBot(TOKEN,{
@@ -27,7 +27,7 @@ mongoose.connect(config.DB_URL,{
     require('./models/user.model')
 const Film = mongoose.model('films')
 const User = mongoose.model('users')
-//database.films.forEach(f=> new Film(f).save().catch(e=> console.log(e)))
+database.films.forEach(f=> new Film(f).save().catch(e=> console.log(e)))
 const ACTION_TYPE = {
     TOGGLE_FAV_FILM:'tff'
 }
