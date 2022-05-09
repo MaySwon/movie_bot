@@ -27,7 +27,7 @@ mongoose.connect(config.DB_URL,{
     require('./models/user.model')
 const Film = mongoose.model('films')
 const User = mongoose.model('users')
-database.films.forEach(f=> new Film(f).save().catch(e=> console.log(e)))
+//database.films.forEach(f=> new Film(f).save().catch(e=> console.log(e)))
 const ACTION_TYPE = {
     TOGGLE_FAV_FILM:'tff'
 }
