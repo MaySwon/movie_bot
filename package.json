@@ -6,16 +6,15 @@
   "scripts": {
     "start": "nodemon index.js",
     "start:dev": "nodemon index.js"
-    
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "emoji-unicode": "^2.0.1",
-    "mongoose": "^5.10.0",
+    "mongoose": "^6.3.2",
     "node-telegram-bot-api": "^0.50.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.16"
   }
 }
